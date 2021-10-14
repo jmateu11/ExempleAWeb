@@ -1,0 +1,24 @@
+h1,h2,h3{
+    color:cadetblue;
+    text-align: center;
+    background-color: cornsilk;
+}
+
+p{
+    font-size: 30px;
+    color:crimson;
+}
+
+#p1{
+    background-color: darkkhaki;
+}
+
+.classp2{
+    text-transform: uppercase;
+}
+
+div h1{
+    background-color: deepskyblue;
+}
+
+
